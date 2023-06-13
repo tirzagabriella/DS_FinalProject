@@ -8,7 +8,7 @@ A password management system is a software tool designed to securely store and m
 - Delete password
 - View all saved passwords
 
-## Data Sturcture Comparasion
+## Data Sturcture Comparison 
 - Doubly Linked List
 - Array List
 - Hashmap
